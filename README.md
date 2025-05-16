@@ -1,18 +1,29 @@
-# flutter_application_1
+# Personal Finance Management 
 
-A new Flutter project.
+## 👥 Thành viên nhóm  
+- **Nguyễn Đức Quốc** - 22010234  
 
-## Getting Started
+## 📌 Đề Tài
+Phát triển Ứng dụng Quản Lý Chi Tiêu Cá Nhân
 
-This project is a starting point for a Flutter application.
+## 📱 Giới thiệu
+**Ứng dụng Quản Lý Chi Tiêu Cá Nhân** là một công cụ đơn giản, trực quan giúp người dùng theo dõi và kiểm soát thu chi hàng ngày của mình. Dự án hướng đến việc cung cấp một giải pháp nhẹ, dễ sử dụng cho mọi đối tượng – từ sinh viên, người đi làm đến các hộ gia đình – nhằm nâng cao nhận thức tài chính và thói quen chi tiêu lành mạnh.
 
-A few resources to get you started if this is your first Flutter project:
+Ứng dụng được phát triển dưới dạng web/mobile, với giao diện thân thiện, tập trung vào trải nghiệm người dùng và tính tiện lợi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💡 Mục tiêu dự án 
+- **Theo dõi thu chi cá nhân một cách dễ dàng: Cho phép người dùng ghi lại các khoản thu và chi mỗi ngày chỉ với vài thao tác.**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Phân loại chi tiêu rõ ràng: Hỗ trợ người dùng nhóm các khoản chi theo danh mục (ăn uống, đi lại, giải trí, v.v.) để dễ phân tích.**
 
-Personal access tokens (classic) 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.
+- **Hiển thị thống kê trực quan: Cung cấp biểu đồ và báo cáo tổng hợp giúp người dùng hiểu rõ tình hình tài chính theo thời gian (ngày, tuần, tháng).**
+
+- **Hướng tới lối sống tài chính lành mạnh: Góp phần hình thành thói quen ghi chép và quản lý tiền bạc có kỷ luật.**
+
+## Mô tả Project
+### Công nghệ sử dụng
+- Ngôn ngữ lập trình: Dart
+- API phát triển: Node.js và Express
+- Database: MongoDB
+- Famework: Flutter
+

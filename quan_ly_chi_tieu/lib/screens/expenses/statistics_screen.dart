@@ -93,7 +93,7 @@ class StatisticsScreen extends StatelessWidget {
                     child: Padding(
                       padding: const EdgeInsets.all(16.0),
                       child: Text(
-                        'Tổng chi tiêu: ${NumberFormat("#,##0", "vi_VN").format(totalExpenses.abs())} VNĐ', //Format
+                        'Số tiền còn lại: ${NumberFormat("#,##0", "vi_VN").format(totalExpenses.abs())} VNĐ', //Format
                         style: const TextStyle(
                             fontSize: 20, fontWeight: FontWeight.bold, color: Colors.blue),
                       ),

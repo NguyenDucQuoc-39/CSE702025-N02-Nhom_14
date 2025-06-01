@@ -353,7 +353,7 @@ class _CalendarScreenState extends State<CalendarScreen> {
                           'Chi Tiêu', totalExpenses, CupertinoColors.systemRed),
 
                       // Use totalIncome and totalExpenses directly
-                      _buildSummary('Tổng', totalIncome - totalExpenses,
+                      _buildSummary('Còn Lại', totalIncome - totalExpenses,
                           _primaryColor),
                     ],
                   ),
